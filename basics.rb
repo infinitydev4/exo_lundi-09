@@ -23,6 +23,6 @@ end
 
 #describe 'crazy stuff on strings'
 def reverse_upcase_noLTA(string)
-	string.reverse.upcase.tr('A','').tr('L' '').tr('T','')
+	string.reverse.upcase.tr('A','').tr('L', '').tr('T','')
 	
 end
